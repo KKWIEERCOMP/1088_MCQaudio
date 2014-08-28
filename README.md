@@ -5,8 +5,8 @@ Multiple choice Questions can be created with provision of audio-visual explaina
 <h1>1.Title (Project heading): 1088_MCQAudioRecorder</h1>
 <h2>2.Remote Centre ID (RC_ID) : 1088 </h2>
 <h2>3. College / Institute Name : K.K.Wagh Institute of Engineering Education and Research, Nashik 
-4. City, State, Pin Code :Nashik, Maharashtra 422003 
-5. Name/’s of the Student :</h2>
+<br>4. City, State, Pin Code :Nashik, Maharashtra 422003 
+<br>5. Name/’s of the Student :</h2>
 <h3>Prof. K.P.Birla,
 <br>Team Members:
 <br>Prashant Bhende
