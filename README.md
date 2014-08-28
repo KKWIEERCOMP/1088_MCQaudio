@@ -7,10 +7,11 @@ Multiple choice Questions can be created with provision of audio-visual explaina
 <h2>3. College / Institute Name : K.K.Wagh Institute of Engineering Education and Research, Nashik 
 4. City, State, Pin Code :Nashik, Maharashtra 422003 
 5. Name/’s of the Student :</h2>
-<h3>Prof. K.P.Birla, Team Members:
-Prashant Bhende
-Aniket chandak
-Saurabh Dugdhe
+<h3>Prof. K.P.Birla,
+<br>Team Members:
+<br>Prashant Bhende
+<br>Aniket chandak
+<br>Saurabh Dugdhe
 </h3>
 <h2>6. About (Short Description / Summary): </h2>
 MCQAudio is a aakash tablet application.
