@@ -6,13 +6,13 @@ Multiple choice Questions can be created with provision of audio-visual explaina
 <h2>2.Remote Centre ID (RC_ID) : 1088 </h2>
 <h2>3. College / Institute Name : K.K.Wagh Institute of Engineering Education and Research, Nashik 
 <br>4. City, State, Pin Code :Nashik, Maharashtra 422003 
-<br>5. Name/’s of the Student :</h2>
-<h3>Prof. K.P.Birla,
+<br><h3>5. Name/’s of the Student :</h3>
 <br>Team Members:
+<h4>Prof. K.P.Birla,
 <br>Prashant Bhende
 <br>Aniket chandak
 <br>Saurabh Dugdhe
-</h3>
+</h4>
 <h2>6. About (Short Description / Summary): </h2>
 MCQAudio is a aakash tablet application.
 A user of such application can create a multiple choice questions and record audio-visual explanation to demonstrate a right answer.
